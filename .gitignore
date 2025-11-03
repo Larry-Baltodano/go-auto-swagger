@@ -1,0 +1,26 @@
+# Binarios
+auto-swagger
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos generados
+openapi.json
+*.json
+*.yaml
+*.yml
+
+# Directorios temporales
+tmp/
+temp/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go
+/go-auto-swagger
