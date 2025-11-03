@@ -1,5 +1,5 @@
 # Binarios
-auto-swagger
+/auto-swagger
 *.exe
 *.dll
 *.so
